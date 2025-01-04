@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MohitLearning/.idea/MohitLearning.iml" filepath="$PROJECT_DIR$/../MohitLearning/.idea/MohitLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NehaLearning/.idea/NehaLearning.iml" filepath="$PROJECT_DIR$/../NehaLearning/.idea/NehaLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonAutomation.iml" filepath="$PROJECT_DIR$/.idea/PythonAutomation.iml" />
     </modules>
   </component>
